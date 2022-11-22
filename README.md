@@ -1,6 +1,4 @@
 # Skills
-Listed are my relevant skills and techniques which I have acquired throughout my coursework and work experience
-
 
 I am a Business Information and Analytics and Marketing student with significant experience analyzing, modeling,
 and visualizing data. I have put my analytical mind to work compiling, interpreting, and presenting complex data,
